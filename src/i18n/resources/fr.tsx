@@ -3,21 +3,21 @@ import type { Translations } from '../types';
 export const translations: Translations<"fr"> = {
     /* spell-checker: disable */
     "App": {
-        "Yes": "Oui",
-        "No": "Non",
+        "Yes": "Si",
+        "No": "No",
     },
     "FirstSticker": {
-        "Will you excuse me?": "Vas-tu m'excuser ?"
+        "Will you forgive me?": "Me perdonas?"
     },
     "SecondSticker": {
-        "Really?": "Vraiment ?"
+        "Really?": "De verdad? "
     },
     "ThirdSticker": {
-        "Will you call me?": "Tu m'appelleras ?"
+        "Can we make up?": "Podemos hacer las paces?"
     },
     "Call": {
-        "Yes": "Oui",
-        "No": "Non"
+        "Yes": "Si",
+        "No": "No"
     }
     /* spell-checker: enable */
 };
