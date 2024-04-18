@@ -6,13 +6,13 @@ export const translations: Translations<"en"> = {
         "No": "No",
     },
     "FirstSticker": {
-        "Will you excuse me?": "Will you excuse me?"
+        "Will you forgive me?": "Will you forgive me?"
     },
     "SecondSticker": {
         "Really?": "Really?"
     },
     "ThirdSticker": {
-        "Will you call me?": "Will you call me?"
+        "Can we bebe forever?": "Can we bebe forever?"
     },
     "Call": {
         "Yes": "Yes",
