@@ -13,7 +13,7 @@ export const translations: Translations<"fr"> = {
         "Really?": "De verdad? "
     },
     "ThirdSticker": {
-        "Can we make up?": "Podemos hacer las paces?"
+        "Can we bebe forever?": "¿Podemos estar juntos siempre?"
     },
     "Call": {
         "Yes": "Si",
